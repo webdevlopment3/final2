@@ -1,0 +1,61 @@
+.container{
+  position: relative;
+  top: 30px;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  margin: 15px;
+  background: grey;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+*{
+  
+  margin: 0;
+  padding: 0;
+  
+}
+h1{
+  color:green;
+  font-size:70px;
+  text-align:center;
+  font-family:arial;
+  }
+
+h2{
+   color:red;
+  font-size:40px;
+  background:blue;
+  text-align:right;
+  font-family:arial;
+}
+  
+h3{
+  color:green;
+  font-size:40px;
+  background:yellow;
+  text-align:right;
+  font-family:arial;
+  
+  
+}
+h4{
+  color:purple;
+  font-size:40px;
+  font-family:arial;
+  background:pink ;
+  text-align:right;
+  
+  
+}
+p{
+  color:#fff;
+  font-size:25px;
+  
+}
+
+
+
